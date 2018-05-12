@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6931'
     url: http://www.gutenberg.org/2009/agents/6931
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16788#My-Little-Lady
 gutenberg_issued: '2005-10-02'
 gutenberg_type: Text
 identifiers:
